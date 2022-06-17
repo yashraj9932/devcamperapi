@@ -1,4 +1,4 @@
-const mongoose = require("mongoose");
+dconst mongoose = require("mongoose");
 
 const CourseSchema = new mongoose.Schema({
   title: {

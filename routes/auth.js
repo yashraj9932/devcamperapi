@@ -6,7 +6,7 @@ const {
   getMe,
   forgotPassword,
   resetPassword,
-  updateDetails,
+  updateDetails, 
   updatePassword,
 } = require("../controllers/auth");
 
